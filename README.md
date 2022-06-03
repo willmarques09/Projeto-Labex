@@ -19,7 +19,10 @@ Pessoa Contribuidora:
 
 Willhan Marques de Carvalho
 
-Login:
+Login do ADM:
+
+Email: willhan@gmail.com 
+senha: 123456
 
 
 Link para acessar o projeto
